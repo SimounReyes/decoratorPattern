@@ -7,4 +7,4 @@ The GSave account offers an interest rate of 2.5%. Benefits include the "Standar
 
 The UpSave account offers the highest interest rate of 4.0%. Benefits include the "Standard Savings Account" plus "with Insurance".
 
-UML Diagram
+# UML Diagram
